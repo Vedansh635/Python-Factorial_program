@@ -16,3 +16,4 @@ def factorial(n):
 
 number = int(input("Enter the number: "))
 print(factorial(number)) 
+# All code is written by me , except comments .
